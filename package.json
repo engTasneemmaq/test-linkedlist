@@ -1,0 +1,21 @@
+{
+  "name": "test-linkedlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linledList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engTasneemmaq/test-linkedlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engTasneemmaq/test-linkedlist/issues"
+  },
+  "homepage": "https://github.com/engTasneemmaq/test-linkedlist#readme"
+}
